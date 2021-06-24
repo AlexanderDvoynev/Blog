@@ -1,2 +1,2 @@
-# Blog
-Files for my blog: https://advoynev.wordpress.com/
+Files used by my blog will be stored here
+https://advoynev.wordpress.com/
