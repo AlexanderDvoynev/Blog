@@ -1,2 +1,2 @@
-Files used by my blog (https://advoynev.wordpress.com/) will be stored here
+Files used in my blog (https://advoynev.wordpress.com/) will be stored here
 
